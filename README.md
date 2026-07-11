@@ -4,7 +4,7 @@ we can tur platform with ropes from both
 side and using winch roll them off
 precisely
 
-#Advantages of Design 
+# Advantages of Design 
 - uses available technology
 - simple infrastructure
 - can use prssent platforms with modifications
